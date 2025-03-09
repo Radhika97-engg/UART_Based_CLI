@@ -1,0 +1,19 @@
+# Ignore build files
+/Debug/
+/Release/
+
+# Ignore STM32CubeIDE files
+.settings/
+.cproject
+.project
+/Startup/
+*.launch
+
+# Ignore miscellaneous files
+.vscode/
+*.swp
+*.bak
+*.tmp
+*.elf
+*.list
+*.map
